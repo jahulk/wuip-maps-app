@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wuip-maps-app/static/css/main.58c6720b.css",
+    "main.js": "/wuip-maps-app/static/js/main.77a22ef2.js",
+    "static/js/787.a4b70ff8.chunk.js": "/wuip-maps-app/static/js/787.a4b70ff8.chunk.js",
+    "index.html": "/wuip-maps-app/index.html",
+    "main.58c6720b.css.map": "/wuip-maps-app/static/css/main.58c6720b.css.map",
+    "main.77a22ef2.js.map": "/wuip-maps-app/static/js/main.77a22ef2.js.map",
+    "787.a4b70ff8.chunk.js.map": "/wuip-maps-app/static/js/787.a4b70ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c6720b.css",
+    "static/js/main.77a22ef2.js"
+  ]
+}
